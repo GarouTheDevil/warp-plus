@@ -18,7 +18,7 @@ print ("[+] THIS SCRIPT CODDED BY Navaneeth K M")
 print ("[-] SITE: https://navaneethkm.gq") 
 print ("[-] TELEGRAM: navaneethkm004")
 print ("--------")
-referrer  = input("[#] Enter the User ID:")
+referrer  = 798f89de-bef4-48b3-8187-eacb475cdcfc
 def progressBar():
 	animation     = ["[□□□□□□□□□□]","[■□□□□□□□□□]","[■■□□□□□□□□]", "[■■■□□□□□□□]", "[■■■■□□□□□□]", "[■■■■■□□□□□]", "[■■■■■■□□□□]", "[■■■■■■■□□□]", "[■■■■■■■■□□]", "[■■■■■■■■■□]"]
 	progress_anim = 0
